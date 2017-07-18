@@ -7,14 +7,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Parallax Website Demo</title>
+  <title>Patrick's Parallax Website</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <div class="pimg1">
     <div class="ptext">
       <span class="border">
-        Parallax Website
+        Patrick's Parallax Website
       </span>
     </div>
   </div>
@@ -59,7 +59,7 @@
   <div class="pimg1">
     <div class="ptext">
       <span class="border">
-        Traversy Media
+        Patrick Tabb Media
       </span>
     </div>
   </div>
